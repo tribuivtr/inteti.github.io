@@ -1,3 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog using Hugo and Github!</title><link>https://inteti.github.io/</link><description>Recent content on Blog using Hugo and Github!</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://inteti.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, world</title><link>https://inteti.github.io/p/hello-world/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/p/hello-world/</guid><description>&lt;h1 id="testing">Testing&lt;/h1>
-&lt;p>testing&lt;/p>
-&lt;h2 id="new-test">New test&lt;/h2></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog using Hugo and Github!</title><link>https://inteti.github.io/</link><description>Recent content on Blog using Hugo and Github!</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://inteti.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>https://inteti.github.io/p/hello/</link><pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate><guid>https://inteti.github.io/p/hello/</guid><description>&lt;h2 id="heading-2">Heading 2&lt;/h2>
+&lt;h3 id="heading-3">Heading 3&lt;/h3>
+&lt;h2 id="heading-2-1">Heading 2&lt;/h2>
+&lt;h3 id="heading-3-1">Heading 3&lt;/h3>
+&lt;h2 id="heading-2-2">Heading 2&lt;/h2></description></item></channel></rss>
