@@ -1,0 +1,6 @@
+[submodule "themes/hulga"]
+	path = themes/hulga
+	url = https://github.com/wlh320/hugo-theme-hulga.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
